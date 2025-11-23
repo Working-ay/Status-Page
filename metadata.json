@@ -1,0 +1,5 @@
+{
+  "name": "NexStatus Monitor",
+  "description": "A modern, high-performance server monitoring dashboard built with React and Tailwind CSS. Features real-time status checks, latency tracking, and a responsive dark-mode UI.",
+  "requestFramePermissions": []
+}
